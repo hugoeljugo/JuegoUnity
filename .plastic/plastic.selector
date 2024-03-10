@@ -1,0 +1,4 @@
+repository "Juego2D@hugoeljugo_oficial@cloud"
+  path "/"
+    br "/main"
+    co "/main"
